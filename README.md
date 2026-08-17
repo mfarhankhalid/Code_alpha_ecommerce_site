@@ -125,7 +125,7 @@ This project was built as a task submission for the **CodeAlpha Web Development 
 Built by **[Muhammad Farhan Khalid]** as part of the CodeAlpha Internship Program.
 
 - GitHub: [@mfarhankhalid](https://github.com/mfarhankhalid)
-- LinkedIn: [your-name](https://www.linkedin.com/in/farhan-khalid-cs)
+- LinkedIn: [mfarhankhalid](https://www.linkedin.com/in/farhan-khalid-cs)
 
 ## Acknowledgements
 
